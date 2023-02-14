@@ -1,6 +1,3 @@
-# Taksimetre-Hesaplayan-Program
-Java Taksimetre Hesaplayan Program
-
 import java.util.Scanner;
 
 public class Main {
